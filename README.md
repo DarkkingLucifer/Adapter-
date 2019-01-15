@@ -1,6 +1,6 @@
 # Adapter-通用模板
 
-```android
+```java
 private XxAdapter adapter;
 
 adapter = new XxAdapter(context, list);
